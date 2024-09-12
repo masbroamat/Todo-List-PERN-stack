@@ -7,7 +7,7 @@ A simple **To-Do List** application built using the **PERN** stack (PostgreSQL, 
 ## Features
 - Add new tasks to your list.
 - Edit existing tasks.
-- Mark tasks as complete or delete them.
+- Delete existing tasks.
 - Store tasks in a PostgreSQL database.
   
 ## Tech Stack
