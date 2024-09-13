@@ -8,7 +8,7 @@ export const Navbar = () => {
             <h2 className='text-xl font-inter font-normal text-white'>masbroamat</h2>
             <button
             type='button'
-            onClick={() => {window.open('https://github.com/adrianhajdin')}}
+            onClick={() => {window.open('https://github.com/masbroamat')}}
             className='black_btn bg-emerald-700 hover:bg-emerald-900'
             >
             Github
